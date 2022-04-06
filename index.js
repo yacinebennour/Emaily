@@ -1,3 +1,11 @@
+// ******************
+// YBENN
+// EMAILY
+// 
+// HAVE FUN! 
+//
+// ALWAYS DOUBLE CHECK THAT THE SELECTOR ARE CORRECT AS THEY DO GET UPDATED FREQUENTLY ON GOOGLE.
+// ******************
 const puppeteer = require('puppeteer');
 const defaultLink = 'https://www.google.com/';
 
